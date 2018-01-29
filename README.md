@@ -1,17 +1,21 @@
-# SIGN IN Link
-http://meetu.ps/3hv5YD
-
 
 # React-JS-Hands-On-Workshop
 React JS Hands-On-Workshop - Saturday, January 27, 2018
 
 ## Notes for the Workshop
 
-Steve has put together notes for the workshop that you can follow along with or use as a reference later. 
+Thanks very much to Steve Pietrek for an awesome workshop : )
 
-They are in the repo as a WORD doc and as a PDF. 
+The slide deck has been added to the repo.
 
-Btw, here are the two GitHub projects.
+The presentation notes to follow along have been updated and are in the repo. 
+
+Code files for the workshop are available here:
 
 1.	workshop.reactjs.1 > Part 2 > https://github.com/spietrek/workshop.reactjs.1
 2.	workshop.reactjs.2 > Part 3 > https://github.com/spietrek/workshop.reactjs.2
+
+I would highly suggest checking out the rest of Steve's github for some more to learn from on lots of front-end technologies.
+You can also follow him on Twitter (https://twitter.com/spietrek). He shares a lot of awesome resources!
+
+Thanks everyone for coming!
