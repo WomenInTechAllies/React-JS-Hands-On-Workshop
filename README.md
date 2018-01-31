@@ -2,6 +2,13 @@
 # React-JS-Hands-On-Workshop
 React JS Hands-On-Workshop - Saturday, January 27, 2018
 
+## Youtube recording of Part 3
+
+We did run a bit over with so much great content to cover.  For those of you who had to leave or just want to go through it again, the last part of the workshop is available on our Youtube channel. Here is a link:
+
+https://youtu.be/XQreozTdsyg ... don't for get to hit subscribe to help us grow pretty please : )
+
+
 ## Notes for the Workshop
 
 Thanks very much to Steve Pietrek for an awesome workshop : )
